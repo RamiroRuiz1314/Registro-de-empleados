@@ -5,11 +5,11 @@
 - | Ingresar los datos correspondientes 
 
 # Capturas
-![Captura 1](Capturas/Cap1.png)
-![Captura 2](Capturas/Cap2.png)
-![Captura 3](Capturas/Cap3.png)
-![Captura 4](Capturas/Cap4.png)
-![Captura 5](Capturas/Cap5.png)
-![Captura 6](Capturas/Cap6.png)
-![Captura 7](Capturas/Cap7.png)
-![Captura 8](Capturas/Cap8.png)
+![Captura 1](Capturas/cap1.png)
+![Captura 2](Capturas/cap2.png)
+![Captura 3](Capturas/cap3.png)
+![Captura 4](Capturas/cap4.png)
+![Captura 5](Capturas/cap5.png)
+![Captura 6](Capturas/cap6.png)
+![Captura 7](Capturas/cap7.png)
+![Captura 8](Capturas/cap8.png)
